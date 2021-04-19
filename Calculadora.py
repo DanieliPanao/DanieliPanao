@@ -1,4 +1,4 @@
-print("\n******* Calculadora em Python *******")
+print("\n******* Calculadora em Python - Danieli Fernandes Neves Panão*******")
 
 
 def soma(a, b):
