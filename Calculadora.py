@@ -36,8 +36,8 @@ elif opcao == 3:
     b = int(input("Digite o segundo número: "))
     print(a, '*', b, '=', multiplicacao(a, b))
 elif opcao == 4:
-    a = int(input("Digite o primeiro número: "))
-    b = int(input("Digite o segundo número: "))
+    a = int(input("Digite o primeiro número para divisão: "))
+    b = int(input("Digite o segundo número para divisão: "))
     print(a, '/', b, '=', divisao(a, b))
 else:
-    print('Opção Inválida!')
+    print('Opção Inválida, tente novamente!')
